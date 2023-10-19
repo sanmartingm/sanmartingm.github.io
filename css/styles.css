@@ -732,7 +732,8 @@ footer {
 }
 
 .banner-cover {
-    background-image: url(/img/banner.jpg);
+    background-image: url(/sanmartingm.github.io/img/banner.jpg
+        );
     height: 100vh;
 }
 
@@ -800,7 +801,7 @@ footer {
 
 @media screen and (min-width: 1023px) {
     .banner-cover {
-        background-image: url(/Proyecto%20mahecha/img/pagprincipalsanmartingm.jpg);
+        background-image: url(/sanmartingm.github.io/img/banner.jpg);
     }
 }
 
