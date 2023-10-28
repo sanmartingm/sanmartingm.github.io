@@ -732,7 +732,7 @@ footer {
 }
 
 .banner-cover {
-    background-image: url(/Users/AA/Documents/sanmartingm.github.io/img/banner.jpg);
+    background-image: url(./img/banner.jpg);
     height: 100vh;
 }
 
@@ -758,12 +758,12 @@ footer {
 }
 
 .banner-cover {
-    background-image: url(../img/banner.jng);
+    background-image: url(./img/banner.jng);
     height: 100vh;
 }
 
 .banner-second {
-    background-image: url(../img/banner.jpg);
+    background-image: url(./img/banner.jpg);
     height: 50vh;
     margin-bottom: 1rem;
     position: relative;
@@ -800,7 +800,7 @@ footer {
 
 @media screen and (min-width: 1023px) {
     .banner-cover {
-        background-image: url(/Users/AA/Documents/sanmartingm.github.io/img/banner.jpg);
+        background-image: url(./img/banner.jpg);
     }
 }
 
